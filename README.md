@@ -2,6 +2,7 @@
 
 This has the python code for converting a numerical input to Graphic output.
 ---
+
 Here are the examples:
 ---
 
@@ -16,5 +17,3 @@ Here are the examples:
 ---
 
 I hope you like it! :slightly_smiling_face:
-
----
